@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on: Eating axes
 - 🤔 I’m looking for help with: Eating Pickaxes
 - 💬 Ask me about: Axes and Geese
-- 📫 How to reach me: Issues on this page
+- 📫 How to reach me: Issues on this repo
 - 😄 Pronouns: zee/zip/zorp
 - ⚡ Fun fact: I am totally not an alien
 
